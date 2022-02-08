@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HandSpeed</string>
+    <string name="tapMe">Tap Me!</string>
+    <string name="yourScore">Score:%1$d</string>
+    <string name="timeLeft">Time: %1$d</string>
+    <string name="gameOverMsg">Time up! Your Score Is: %1$d</string>
+</resources>
